@@ -7,7 +7,7 @@
 
 ## Outcomes Predictions
 * Time spent in the company has heavy impact on high performing employees leaving.
-* They often leave with time frame of 4 to 5 years
+* They often leave within time frame of 4 to 5 years
 
 ## Data Acquisition
 Company's employees records
